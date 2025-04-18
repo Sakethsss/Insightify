@@ -1,0 +1,35 @@
+cookie:
+  expiry_days: 30
+  key: a_secure_random_key
+  name: my_app_cookie
+credentials:
+  usernames:
+    saisaketh:
+      email: sai@gmail.com
+      failed_login_attempts: 0
+      first_name: SaiSaketh
+      last_name: Gudla
+      logged_in: true
+      password: $2b$12$A1GsWTfisQbN6rSMzq6pOedGgiiUDVQyzQ/NaquiwMesTsq0psvr2
+      password_hint: sais
+      roles: null
+    sasa:
+      email: sdsas@gmail.com
+      failed_login_attempts: 0
+      first_name: dsdsdsd
+      last_name: dsdsdsd
+      logged_in: false
+      password: $2b$12$5RvR5F7G/RKM61UDoccBGOcfj5wFn1FaPk8r9fN46o3NHAyECW3XG
+      password_hint: dfdfd
+      roles: null
+    test_user:
+      email: test@example.com
+      name: Test User
+      password: $2b$12$09PB.pXTLLw4v/3US9zu4eyvPTRpGQPv160ScFv12PT.goXXMnF.y
+oauth2:
+  google:
+    client_id: your_google_client_id
+    client_secret: your_google_client_secret
+  microsoft:
+    client_id: your_microsoft_client_id
+    client_secret: your_microsoft_client_secret
